@@ -1,0 +1,2 @@
+rootProject.name = "Top 10 Downloader 2.7"
+include ':app'
